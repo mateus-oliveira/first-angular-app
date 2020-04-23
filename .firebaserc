@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fisrt-angular-app": {
+      "hosting": {
+        "first-angular-app": [
+          "fisrt-angular-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fisrt-angular-app"
+  }
+}
